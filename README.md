@@ -1,6 +1,19 @@
 # Decoding Global Relations: A Time-Based Network Analysis of International Relations
 
+<b>#Files Description
+1. GSDB1.csv : Data used for the project
+2. sanctions.ipynb : Cleaning and preprocessing 'global sanctions' data and creating network
+3. alliance.ipynb : Cleaning and preprocessing 'alliance' data and creating network
+4. All_graphs.Gephi : Networks created
+5. alliance_total.gml : Alliance total network
+6. sacntions_military_total.gml : Military Sanctions total network
+7. Global_Relations_Network_Theory.pdf : Complete description of the project</b>
+
 The project aims to identify key players that influence the connections between nations in the context of International Relations by employing network analysis techniques like degree centrality, community detection, and leveraging the growing volume of data on international relations. We used the alliance and sanctions data to determine the changes in relationships from 1975 to 2010.
+
+<b>Data Source:</b>
+1. Alliance: https://correlatesofwar.org/data-sets/formal-alliances/
+2. Sanctions: https://www.globalsanctionsdatabase.com/
 
 Tools:
 1. Gephi
@@ -20,13 +33,6 @@ Tools:
    
 ![image](https://github.com/Sahithi-thummuri/Decoding_Global_Relations_Network_Analysis/assets/142358393/bba50f9a-0eef-42bd-8476-92486d231dc6)
 
-#Files Description
-1. GSDB1.csv : Data used for the project
-2. sanctions.ipynb : Cleaning and preprocessing 'global sanctions' data and creating network
-3. alliance.ipynb : Cleaning and preprocessing 'alliance' data and creating network
-4. All_graphs.Gephi : Networks created
-5. alliance_total.gml : Alliance total network
-6. sacntions_military_total.gml : Military Sanctions total network
-7. Global_Relations_Network_Theory.pdf : Complete description of the project
+
 
 
