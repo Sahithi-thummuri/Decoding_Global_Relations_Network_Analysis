@@ -20,4 +20,12 @@ Tools:
    
 ![image](https://github.com/Sahithi-thummuri/Decoding_Global_Relations_Network_Analysis/assets/142358393/bba50f9a-0eef-42bd-8476-92486d231dc6)
 
+#Files Description
+1. GSDB1.csv : Data used for the project
+2. sanctions.ipynb : Cleaning and preprocessing 'global sanctions' data and creating network
+3. alliance.ipynb : Cleaning and preprocessing 'alliance' data and creating network
+4. All_graphs.Gephi : Networks created
+5. alliance_total.gml : Alliance total network
+6. sacntions_military_total.gml : Military Sanctions total network
+
 
