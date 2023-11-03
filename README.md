@@ -27,5 +27,6 @@ Tools:
 4. All_graphs.Gephi : Networks created
 5. alliance_total.gml : Alliance total network
 6. sacntions_military_total.gml : Military Sanctions total network
+7. Global_Relations_Network_Theory.pdf : Complete description of the project
 
 
